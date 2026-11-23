@@ -1,3 +1,18 @@
+# Events at a glance
+
+| Event | Years | Location | Format | Size | My role |
+|---|---|---|---|---|---|
+| LibreOffice Conference | 2018 | Tirana, Albania | In person | ~150 | Led local team: venue, partners, budget |
+| OSCAL | 2014–2018 | Albania | In person | ~150 | Organizing team: speakers, partners, volunteers, venue |
+| Fedora Mentor Summit and Flock to Fedora | 2022–present | Online; Cork; Rochester; Prague (x2) | Online, then hybrid | 100–200 | Mentor Summit: lead organizer (CFP, agenda, production). Flock: CFP review, on-site support, room moderation |
+| Machine Learning Prague | 2020–present | Prague / online | Hybrid | 500–800+ | 2020 full production; partnerships since |
+| Global Travel Hackathon | 2019 | Barcelona, London, Belgrade | In person, 3 cities | 200+ | Main organizer |
+| Central Europe Tech Week | 2019 | Prague, Brno, Bratislava | In person | ~150 | Led speaker coordination |
+| Women in Tech Conference | 2019 | Brno, Czech Republic | In person | 150+ | Organizing team: speakers, panel host |
+| Fedora Week of Diversity | 2021–2024 | Online | Online | 50–100 | Lead organizer and project manager |
+| Fedora Appreciation Week | 2023 | Online | Online | 50+ | Led organization |
+| 48H Open Source Hackathon | 2017 | Albania | In person | ~80 | Project coordinator: attendees, venue |
+
 # Machine Learning Prague (2020 - present)
 
 ![mlprague-conference](mlprague-3.jpg)
