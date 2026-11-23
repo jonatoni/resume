@@ -42,9 +42,11 @@ product managers
 
 ![flock-2023-group-photo](flock-2023-group-photo.jpg)
 
-## What is Fedora Mentor Summit?
+## What is Fedora Mentor Summit and Flock?
 
 Mentor Summit focuses on workshops and sessions to promote mentorship best practices and to connect mentors and mentees across the Fedora community.
+
+Flock to Fedora is the Fedora Project's annual contributor conference. It moves to a different city each year, and the Fedora Mentor Summit takes place alongside it.
 
 ## Responsibilities
 
@@ -72,11 +74,11 @@ Mentor Summit focuses on workshops and sessions to promote mentorship best pract
 
 2023: https://youtube.com/playlist?list=PL0x39xti0_64OcXEGLCtoI4nouADqaTcT&si=tAmLyR9Jm-vWGgkx (Cork, Ireland 🇮🇪)
 
-2024: https://youtu.be/LAEe-27OI5w?si=LPi8OXtKlLFvcb5c (Rochester, New York, United States of America 🇺🇸)
+2024: https://youtu.be/LAEe-27OI5w (Rochester, New York, United States of America 🇺🇸)
 
 2025: https://youtube.com/playlist?list=PL0x39xti0_67BysOQF2C5BlFPUNo9vM-A&si=SPNcGP2bcaR010nE (Prague, CZ 🇨🇿)
 
-2026: https://youtu.be/ugj8OkeLoSw?si=kX4Fn9tVYmGC-5Sw (Prague, CZ 🇨🇿)
+2026: https://youtu.be/ugj8OkeLoSw (Prague, CZ 🇨🇿)
 
 # Fedora Week of Diversity (2021 - 2024)
 
@@ -115,7 +117,7 @@ https://youtube.com/playlist?list=PL0x39xti0_67oLN5oUN8lYj0a29xWCQLZ&si=HwDJBGju
 
 ## What is Fedora Appreciation Week
 
-Fedora Appreciation Week, abbreviated as FAW, is a week-long event organized by the Fedora DEI Team dedicated to celebrating the efforts of Fedora Project contributors and and expressing gratitude to one another. 
+Fedora Appreciation Week, abbreviated as FAW, is a week-long event organized by the Fedora DEI Team dedicated to celebrating the efforts of Fedora Project contributors and expressing gratitude to one another. 
 
 Throughout Fedora Appreciation Week, we encourage all community members to select either an individual contributor or a group of contributors to thank for their work in Fedora. This includes all types of contributions, from development, design, infrastructure, marketing, engineering, and more. Let’s come together to celebrate the collective efforts that make Fedora what it is today.
 
@@ -148,7 +150,7 @@ Throughout Fedora Appreciation Week, we encourage all community members to selec
 
 **Article**: https://code.kiwi.com/articles/get-to-know-penguin-bots-the-winners-of-global-travel-hackathon/
 
-[Event video](https://www.youtube.com/watch?v=RhTWOqkMzFI&embeds_referring_euri=https://code.kiwi.com/)
+[Event video](https://www.youtube.com/watch?v=RhTWOqkMzFI)
 
 # Women in Tech Conference 2019
 
