@@ -1,4 +1,4 @@
-# Machine Learning Prague (2020 - 2027)
+# Machine Learning Prague (2020 - present)
 
 ![mlprague-conference](mlprague-3.jpg)
 
@@ -38,7 +38,7 @@ product managers
 
 2026: https://www.mlprague.com/prague2026/
 
-# Fedora Mentor Summit and Flock (2022 - 2027)
+# Fedora Mentor Summit and Flock (2022 - present)
 
 ![flock-2023-group-photo](flock-2023-group-photo.jpg)
 
@@ -48,10 +48,19 @@ Mentor Summit focuses on workshops and sessions to promote mentorship best pract
 
 ## Responsibilities
 
+**Fedora Mentor Summit (lead organizer)**
+
 - Lead event organizer and event ideator for the Fedora Mentor Summit.
 - In 2022, we organized the event online, and since 2023, the event has been hybrid.
 - Manage the event's Call for Proposals (CFP), review applications, and build the agenda.
 - Handle event production, project management, and support team members when needed.
+
+**Flock (team member)**
+
+- **2027 (upcoming):** Leading promotion and marketing for the conference.
+- **Previous editions:** Part of the CFP review team.
+- Provided on-the-ground support in Prague.
+- Moderated sessions in the in-person rooms.
 
 ## Links
 
