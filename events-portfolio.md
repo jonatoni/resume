@@ -178,7 +178,7 @@ Article: https://code.kiwi.com/articles/join-the-central-europe-tech-week/
 
 # LibreOffice Conference 2018
 
-![LibreOffice Conference 2018](LO-conf.jpg)
+![LibreOffice Conference 2018](libocon.jpeg)
 
 - The LibreOffice conference rotates countries each year. In 2018, it was in Tirana, Albania, organized by Open Labs, where I led the local team.
 - In this role, I focused on project management, coordinating with partners, managing venue logistics, and tracking the budget.
